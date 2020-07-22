@@ -203,7 +203,7 @@ header {
     .block {
         position: absolute;
         right: 22px;
-        top: 1px;
+        top: -2px;
         color: rgb(97 67 121);
         font-size: 46px;
         display: block!important;
